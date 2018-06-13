@@ -41,7 +41,7 @@ Please see the comments in the script for full explanation of steps.
 
 The included tidy data set (TidyAverageData.txt) is a text file that contains the independent tidy data set with the average of each variable for each activity and each subject.
 
-The variables included have been slightly modified from the original data to be more descriptive (e.g. V1 -> subjectID, t -> Time, f -> Frequency, etc.), and a full list is included below:
+The variables included have been slightly modified from the original data to be more descriptive (e.g. V1 -> subjectID, t -> Time, f -> Frequency, std -> StandardDeviation etc.), and a full list is included below:
 
 
 
